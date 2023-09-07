@@ -1,0 +1,27 @@
+Boolean Values: In programming you often need to know if an expression is True or False. 
+You can evaluate any expression in Python, and get one of two answers, True or False.When you compare two values, the expression is evaluated and Python returns the Boolean answer
+Lists are used to store multiple items in a single variable. 
+Lists are one of 4 built-in data types in Python used to store collections of data, the other 3 are Tuple, Set, and Dictionary, all with different qualities and usage.
+Lists are created using square brackets.
+Numeric Types: int, float, complex.
+Sequence Types:	list, tuple, range.
+Mapping Type: dict.
+Set Types:set, frozenset.
+Boolean Type:bool.
+Binary Types:bytes, bytearray, memoryview.
+None Type:NoneType,
+Sets are used to store multiple items in a single variable. Set is one of 4 built-in data types in Python used to store collections of data, the other 3 are List, Tuple, and Dictionary, all with different qualities and usage.
+A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string). This is less like the for keyword in other programming languages, and works more like an iterator method as found in other object-orientated programming languages.With the for loop we can execute a set of statements, once for each item in a list, tuple, set etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
